@@ -57,10 +57,3 @@ Daftar script untuk setiap soal:
 - `Q075`: `python/order_list_view_model.py`
 
 ---
-
-## Aturan Kolaborasi Kelompok
-
-1. Bekerja pada branch atau koordinasikan pengerjaan subfolder masing-masing anggota.
-2. Jangan mengubah tanda tangan method (*method signatures*) atau kerangka kode bawaan soal di luar blok instruksi pengerjaan.
-3. Jawab pertanyaan analisis teoritis di file `ANSWER.md` pada folder soal terkait (bila ada).
-4. Pastikan file hasil kompilasi (`*.class`, `classes/`) dan cache Python tidak ter-commit ke repositori (sudah dikonfigurasi pada `.gitignore`).
