@@ -1,8 +1,6 @@
 # EF234302 Object-Oriented Programming — Quiz 2 (Profitina Laundry)
 
-Repositori pengerjaan tugas kelompok Quiz 2 mata kuliah Pemrograman Berorientasi Objek (PBO / OOP). Proyek ini berfokus pada studi kasus sistem operasional laundry **Profitina Laundry** menggunakan implementasi ganda (Java dan Python) yang mencakup konsep *generic programming*, *collections*, *event-driven GUI/listeners*, serta pola arsitektur *View-Model*.
 
----
 
 ## Daftar Soal & Topik
 
